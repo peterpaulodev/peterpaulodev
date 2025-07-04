@@ -11,7 +11,7 @@
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 <p align="justify">
-Sou <b>Desenvolvedor</b>b> com 6 anos de experiência em criação, manutenção e otimização de interfaces de usuário ricas e responsivas. Atuo principalmente com ecossistemas <b>JavaScript/TypeScript</b> e tenho especialização em <b>Vue.js</b> e suas ferramentas associadas. Apaixonado por entregar a melhor experiência de usuário (UX) e contribuir para a inovação em tecnologia.
+Sou <b>Desenvolvedor</b> com 6 anos de experiência em criação, manutenção e otimização de interfaces de usuário ricas e responsivas. Atuo principalmente com ecossistemas <b>JavaScript/TypeScript</b> e tenho especialização em <b>Vue.js</b> e suas ferramentas associadas. Apaixonado por entregar a melhor experiência de usuário (UX) e contribuir para a inovação em tecnologia.
   Contribuí para a criação de plataformas de ERP, sistemas de rastreio de entregas e gerenciamento de call center, assumindo a liderança no desenvolvimento frontend. Minha expertise inclui o desenvolvimento de APIs, soluções frontend e micro-frontend, com um forte enfoque na qualidade e limpeza do código, otimização de arquiteturas e aceleração do desenvolvimento, resultando em redução de custos operacionais.
 </p>
 

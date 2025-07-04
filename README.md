@@ -11,7 +11,7 @@
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 <p align="justify">
-Sou **Desenvolvedor Front-End** com 6 anos de experiência em criação, manutenção e otimização de interfaces de usuário ricas e responsivas. Atuo principalmente com ecossistemas **JavaScript/TypeScript** e tenho especialização em **Vue.js** e suas ferramentas associadas. Apaixonado por entregar a melhor experiência de usuário (UX) e contribuir para a inovação em tecnologia.
+Sou <b>Desenvolvedor</b>b> com 6 anos de experiência em criação, manutenção e otimização de interfaces de usuário ricas e responsivas. Atuo principalmente com ecossistemas <b>JavaScript/TypeScript</b> e tenho especialização em <b>Vue.js</b> e suas ferramentas associadas. Apaixonado por entregar a melhor experiência de usuário (UX) e contribuir para a inovação em tecnologia.
   Contribuí para a criação de plataformas de ERP, sistemas de rastreio de entregas e gerenciamento de call center, assumindo a liderança no desenvolvimento frontend. Minha expertise inclui o desenvolvimento de APIs, soluções frontend e micro-frontend, com um forte enfoque na qualidade e limpeza do código, otimização de arquiteturas e aceleração do desenvolvimento, resultando em redução de custos operacionais.
 </p>
 
@@ -42,7 +42,6 @@ Sou **Desenvolvedor Front-End** com 6 anos de experiência em criação, manuten
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=f29111)
 ![SQlite](https://img.shields.io/badge/-SQlite-333333?style=flat&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -61,8 +60,6 @@ Sou **Desenvolvedor Front-End** com 6 anos de experiência em criação, manuten
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
-![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 ![VScode](https://img.shields.io/badge/-VScode-333333?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0iIzFGOUNGMCIgZD0ibTYuMzE3IDIyLjA0Ni0uNjI5LS4zMTQgMy45ODEtNC4yNjYuOTM4IDEuMDA1LTQuMjkgMy41NzV6TTIwIDI1LjYwMiA1LjY4OCAxMC4yNjhsLjU5OS0uMjk5TDIwIDIyLjU0djMuMDYyem0wLTE0Ljk1OC01LjI0NyA0LjM3Mi0xLjUwNy0xLjM4MkwyMCA2LjM5OHY0LjI0NnptNiAxMy4xODktNCAyLjRWNS43NjZsNCAyLjR2MTUuNjY3eiIvPjxwYXRoIGZpbGw9IiMwMDY1QTkiIGQ9Im0yNy41MTUgNi43NDMtNi0zLjZjLS4wMjctLjAxNi0uMDU3LS4wMjQtLjA4Ni0uMDM3LS4zOTctLjIzOC0uOTEtLjE5NS0xLjIzOS4xNTdsLTguNDE5IDkuMDIxLTQuNjQtNC4yNTRhMS4wMDMgMS4wMDMgMCAwIDAtMS4xMjMtLjE1N0wzLjU5NyA5LjA3OGExLjAwMSAxLjAwMSAwIDAgMC0uMjg0IDEuNTc2TDguMzAyIDE2bC00Ljk4OSA1LjM0NmEuOTk5Ljk5OSAwIDAgMCAuMjg0IDEuNTc2bDIuNDExIDEuMjA2YS45OTcuOTk3IDAgMCAwIDEuMDg4LS4xMjdsNC44NzktNC4wNjYgOC4yMTUgOC44MDJhLjk5OC45OTggMCAwIDAgLjczMS4zMTguOTk0Ljk5NCAwIDAgMCAuNTItLjE2N2MuMDI0LS4wMTIuMDUtLjAxNy4wNzMtLjAzMWw2LTMuNkExIDEgMCAwIDAgMjggMjQuNFY3LjZhMSAxIDAgMCAwLS40ODUtLjg1N3pNNi4zMTcgMjIuMDQ2bC0uNjI5LS4zMTQgMy45ODEtNC4yNjYuOTM4IDEuMDA1LTQuMjkgMy41NzV6TTIwIDI1LjYwMiA1LjY4OCAxMC4yNjhsLjU5OS0uMjk5TDIwIDIyLjU0djMuMDYyem0wLTUuNzc2LTMuNzU5LTMuNDQ2TDIwIDEzLjI0OHY2LjU3OHptMC05LjE4Mi01LjI0NyA0LjM3Mi0xLjUwNy0xLjM4MkwyMCA2LjM5OHY0LjI0NnptNiAxMy4xODktNCAyLjRWNS43NjZsNCAyLjR2MTUuNjY3eiIvPjwvc3ZnPg==)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
@@ -74,13 +71,9 @@ Sou **Desenvolvedor Front-End** com 6 anos de experiência em criação, manuten
 
 <h2>👨‍💻 &nbsp;Minhas estatísticas do GitHub:</h2>
 
-<div align='center' style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <img alt="Peterson GitHub Stats" width="75%"  src="https://github-readme-stats.vercel.app/api?username=peterpaulodev&show_icons=true&theme=aura&ring_color=24f804&hide_title=true&locale=pt-br&include_all_commits=true&show=prs_merged,prs_merged_percentage"/>
-  </div>
-  <div style="flex: 1;">
-    <img alt="Peterson GitHub Stats" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpaulodev&layout=donut&theme=aura&locale=pt-br"/>
-  </div>
+<div>
+    <img alt="Peterson GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=peterpaulodev&show_icons=true&theme=aura&ring_color=24f804&hide_title=true&locale=pt-br&include_all_commits=true&show=prs_merged,prs_merged_percentage"/>
+    <img alt="Peterson GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterpaulodev&layout=donut&theme=aura&locale=pt-br"/>
 </div>
 
 ---

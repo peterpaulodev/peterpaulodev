@@ -1,4 +1,4 @@
-<h1 align="center">👋 &nbsp;Olá, eu sou o Peterson </br> Um Desenvolvedor apaixonado pelo que faz!</h1>
+<h1 align="center">👋 &nbsp;Olá, eu sou o Peterson! </br> Software Enginner</h1>
 <p align="center">
    <a href="https://web.whatsapp.com/send?phone=5516994490199" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-075E54?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
    <a href="mailto:peterpaulodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -7,8 +7,15 @@
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 <p align="justify">
-Sou <b>Desenvolvedor</b> com 6 anos de experiência em criação, manutenção e otimização de interfaces de usuário ricas e responsivas. Atuo principalmente com ecossistemas <b>JavaScript/TypeScript</b> e tenho especialização em <b>Vue.js</b> e suas ferramentas associadas. Apaixonado por entregar a melhor experiência de usuário (UX) e contribuir para a inovação em tecnologia.
-  Contribuí para a criação de plataformas de ERP, sistemas de rastreio de entregas e gerenciamento de call center, assumindo a liderança no desenvolvimento frontend. Minha expertise inclui o desenvolvimento de APIs, soluções frontend e micro-frontend, com um forte enfoque na qualidade e limpeza do código, otimização de arquiteturas e aceleração do desenvolvimento, resultando em redução de custos operacionais.
+Há 6+ anos, iniciei minha jornada como desenvolvedor full-stack , construindo soluções completas com PHP/Laravel e Python/Django. Essa base diversificada me deu uma visão 360º do ciclo de vida de um produto e me ensinou a importância de um código limpo e de uma arquitetura bem definida.
+
+Nos últimos anos, direcionei minha carreira para uma especialização em front-end , focando no ecossistema JavaScript (React, Vue.js, TypeScript e Node.js). Meu objetivo é criar interfaces complexas e de alta performance que simplifiquem a vida do usuário. Na Azion, tive a oportunidade de liderar iniciativas que melhoraram a experiência do usuário em 18% e aumentaram a consistência visual através de bibliotecas de componentes.
+
+Sou um defensor de boas práticas, automação e qualidade. Acredito que a automação de testes (Cypress, Jest) e a otimização de pipelines de CI/CD não são apenas diferenciais técnicos, mas ferramentas essenciais para acelerar o desenvolvimento e reduzir custos operacionais.
+
+Estou buscando uma posição que me desafie a continuar aprendendo e a contribuir para projetos inovadores. Se você procura um engenheiro com visão de produto e foco em qualidade, adoraria conversar.
+
+Email: peterpaulodev@gmail.com
 </p>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>

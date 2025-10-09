@@ -1,9 +1,115 @@
 <h1 align="center">👋 &nbsp;Olá, eu sou o Peterson! </br> Software Enginner</h1>
+
 <p align="center">
    <a href="https://web.whatsapp.com/send?phone=5516994490199" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-075E54?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
    <a href="mailto:peterpaulodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/peterson-paulo-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAAFIUlEQVR4nO2dz28bRRTHh1TtBYkjB4S4ckb8E3ACAaUSokII6IHEqeM22Q1CVFygBW6UCxJqRd0ARUICVaKXxk7rxqmTJiG7jhPyg0pAm6jQ1k2i/LL9RW/GQFU5ya7j3Znuvo/0JMvr3Xjed+d9Z2bXWSEYhmEYhmEYhmEYhmEYxg/H3H3Cdg4Iy+kTtjslbHdZ2C4iFsuybdTGnolXZZuNwHJeFrY7Z0CCEHLMil7nJX2J339uj7CdzwxIBLSG5X4qjqEtfAE4+bhPhBM6yo7+s882KHqLL4ZouO6s9gbbhoXlzodjzDTa0d1Y29Qo7g9BAPcb/Q11zQzLSYcggPOr9obaxsZU8AJYzpIBDYWRQbkJnKa+2ARE9yjEkRGII8MQqYJ63T2qtulOXCvDOAF6xiFSVyE6cxAdGYj2iyrodWdObaPP6E5cJAWgxHYN4ZGOfrx5ZhL5+TKW1ytYWa+gcL2Mt9MluY0+ExkRjBGASkvqqkxwunATW5Eu3FQiUE+IQjkyRgCq7505eebvxMHTRVWOusf0JzAyApDJdmQw9Ft5RwEuzdyB6MiqfXQnMDoCDEuzpXq/E/dWK8qYaR/dCYyaAGS6LIDGEjQ4f3dHAXJzd9WwlEuQHhN+/T8THtVfQqI4DD1bWNgy+afyN3gYGogAsheMyUlWW0dGTrpo8kWmvLRWkWXn4OkiT8QC6wH3iyCXIi4/sBSR5aWIptjtYpxciBv+fzHOdvTX7Uh6ACW6mbBbtL8UfQzi6LUHVmHr4tP7tL3Vyx9GCfDuRX+RKux+f0ooJZfK3uEcRCIL0d6vyh59hl5TKaT3aTstBJIorVoMNE0Ar4gtBPC9v/SbS3gsNYB3zpbw7cgCphZWcHtlE9VaDYv31lG8sYzvRxdxqK+EJ9+jZfIsRDKvesZue0SsBegawp5EBkd/mEF5ddPTfhuVGr7M/Ymn3r8ihZN/t+cXFkA0IcCjXVlcmPwbzUCCPf/FuOoNu1kaj2sPaGvvx8/Fv7AbKtUa3vh6EiIxUF8YbGKEFlcBen+cRStY26zimY8LEIevKDNnAeC5lrcKMu29nU1epYtrD2g1r51y1TDV7wIhC9Aaxv9YUnMGvxeJWADI5H104ToS56bxwfl5/DRxC6sbVd8iPP1hXk3U/JShOAuwtllV1xbozKXFPyoh8n6krBzn+x2ivpUuqWP4mSXHVYBaDTjwlauGkGSeVLspcbTeQzPcZF4a63nH+1CVrlXI4/kZDcVVgO+uLdYvaw43LhkkRDKPx63LnmfJdEeHnJixADvz7PECRHJw+3JBiUwM4PPs7x6OCEwvrtSN2MftMnHtAfs6M6r0bDd7pTWe5CCeOznu6Zi3ljb83y4TRwFqtQb7NwxHjmqe6M15Ou5mtebxuCwAPCcqVZC9pbXCxlwAwo8Are9ZLABYAO4B4BKU4hLEHhA4bMJgE24AmzCbMNiEU2zCbMKBwyYMNuEGsAmzCYNNOMUmzCYcOGzCYBNuAJtwBE2YeOgvyIT+EyU74O/1UAmg80d6dkDfS7sA/E/7sGXyLacchgDTns+GuIXllsIQoM+IxtpGxpngBaCHF+hvKIyMXveV4AU4NLJXWM6M9sbaxsVceE/VoCdH6G8wjAqr+IIIFXpyhO5G26aEc1yEDj22w3Y/0d94V/OZ757Q8wiTf6EnR8TREyxnJvyys50x08ML6P/n01g4ipM1y1mqty0tRzvUZoZhGIZhGIZhGIZhGIYR3vkHXi1Jisqz6ZMAAAAASUVORK5CYII=&logoColor=white"/></a>
 </p>
+
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/peterpaulodev"> 🔗
+  https://gitfollio.vercel.app/peterpaulodev
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Peterson Paulo",
+  "email": "peterpaulodev@gmail.com",
+  "tagline": "Software Enginner",
+  "avatar_url": "https://avatars.githubusercontent.com/u/109550332?v=4",
+  "website": "",
+  "githubUser": "peterpaulodev",
+  "linkedinUser": "https://www.linkedin.com/in/peterson-paulo-marques/",
+  "about": "",
+  "showStars": false,
+  "showFollowers": false,
+  "followers": 3,
+  "following": 1,
+  "themeId": "cyberpunk",
+  "tech": [
+  "React",
+  "Vue.js",
+  "Javascript",
+  "Typescript",
+  "Node.js",
+  "Github",
+  "Git",
+  "CI/CD",
+  "Laravel",
+  "PHP",
+  "Python",
+  "Django",
+  "Postgresql",
+  "GraphQL",
+  "MySQL",
+  "Figma",
+  "Cypress",
+  "Jest",
+  "Next.js",
+  "Nuxt.js",
+  "Storybook"
+],
+  "projects": [
+  {
+    "id": 1067901660,
+    "repoName": "garimpo.AI",
+    "url": "https://github.com/peterpaulodev/garimpo.AI",
+    "stars": 0,
+    "description": "Ferramenta de precificação inteligente para brechós que utiliza IA para sugerir preços justos baseados em tendências de mercado, tipo e estado da peça.",
+    "image": "",
+    "techs": [
+      "React",
+      "Node.js",
+      "Gemini API",
+      "API Rest",
+      "Typescript",
+      "Next.js",
+      "Vercel",
+      "Tailwind CSS"
+    ],
+    "deploy": "https://garimpo-ai.vercel.app/",
+    "highlighted": true
+  },
+  {
+    "id": 1065417955,
+    "repoName": "pamonhas-mil-site",
+    "url": "https://github.com/peterpaulodev/pamonhas-mil-site",
+    "stars": 0,
+    "description": "🌽 Projeto de site estático de alta performance com Astro e Tailwind CSS para a Pamonhas MIL, uma pamonharia tradicional.",
+    "image": "",
+    "techs": [
+      "Astro",
+      "Vue.js",
+      "Vercel",
+      "Tailwind CSS"
+    ],
+    "deploy": "https://pamonhas-mil-site.vercel.app/",
+    "highlighted": false
+  },
+  {
+    "id": 1017928972,
+    "repoName": "letmeask-ai-agent",
+    "url": "https://github.com/peterpaulodev/letmeask-ai-agent",
+    "stars": 0,
+    "description": "🤖 Plataforma Q&A com IA - Salas virtuais, transcrição de áudio e respostas automáticas via Google Gemini AI. React + Node.js + PostgreSQL",
+    "image": "",
+    "techs": [
+      "React",
+      "Gemini AI",
+      "Typescript",
+      "Node.js",
+      "Embeddings"
+    ],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+
+  
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 <p align="justify">

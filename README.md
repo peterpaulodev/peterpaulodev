@@ -8,6 +8,7 @@
 
 
 
+
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/peterpaulodev"> 🔗
   https://gitfollio.vercel.app/peterpaulodev
@@ -23,7 +24,7 @@ Acesse meu portfólio em:
   "website": "",
   "githubUser": "peterpaulodev",
   "linkedinUser": "https://www.linkedin.com/in/peterson-paulo-marques/",
-  "about": "Há 6+ anos, iniciei minha jornada como desenvolvedor full-stack , construindo soluções completas com PHP/Laravel e Python/Django. Essa base diversificada me deu uma visão 360º do ciclo de vida de um produto e me ensinou a importância de um código limpo e de uma arquitetura bem definida. Nos últimos anos, direcionei minha carreira para uma especialização em front-end , focando no ecossistema JavaScript (React, Vue.js, TypeScript e Node.js). Meu objetivo é criar interfaces complexas e de alta performance que simplifiquem a vida do usuário. Na Azion, tive a oportunidade de liderar iniciativas que melhoraram a experiência do usuário em 18% e aumentaram a consistência visual através de bibliotecas de componentes. Sou um defensor de boas práticas, automação e qualidade. Acredito que a automação de testes (Cypress, Jest) e a otimização de pipelines de CI/CD não são apenas diferenciais técnicos, mas ferramentas essenciais para acelerar o desenvolvimento e reduzir custos operacionais. Estou buscando uma posição que me desafie a continuar aprendendo e a contribuir para projetos inovadores. Se você procura um engenheiro com visão de produto e foco em qualidade, adoraria conversar.",
+  "about": "Há 6 anos, eu iniciei a minha carreira como desenvolvedor full-stack, atuei com vue.js, php e laravel, tomando a frente de 2 projetos front-end, tanto em arquitetura quanto decisões de design.",
   "showStars": false,
   "showFollowers": false,
   "followers": 3,
@@ -109,6 +110,7 @@ Acesse meu portfólio em:
 ]
 }
 GitFolio:end -->
+  
   
 
   

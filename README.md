@@ -7,6 +7,7 @@
 </p>
 
 
+
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/peterpaulodev"> 🔗
   https://gitfollio.vercel.app/peterpaulodev
@@ -108,6 +109,7 @@ Acesse meu portfólio em:
 ]
 }
 GitFolio:end -->
+  
 
   
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>

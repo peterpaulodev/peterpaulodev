@@ -8,8 +8,8 @@
 
 
 Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/peterpaulodev"> 🔗
-  https://gitfollio.vercel.app/peterpaulodev
+<a href="https://peterdev-portfolio.vercel.app/"> 🔗
+  https://peterdev-portfolio.vercel.app/
 </a>
 
 <!-- GitFolio:start
